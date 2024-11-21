@@ -1,8 +1,26 @@
-# React + Vite
+# React Assessment Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React Application that demonstrates:
 
-Currently, two official plugins are available:
+1. `UserCard` - A component to display a name and email
+2. `GreetingForm` - A form component to input their name and displays a greeting message upon submission.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How to run project
+
+1. Clone the repository:
+
+git clone <https://github.com/Amasiorah17/Frontend-react-assessment-.git>
+
+2. Navigate to the project directory:
+
+cd frontend-assessment
+
+3. Install dependencies
+
+npm install
+
+4. Start the development Server
+
+npm run dev
+
+The application will be available at http://localhost:5173/.
